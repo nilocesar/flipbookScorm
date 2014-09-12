@@ -1,0 +1,24 @@
+{
+   "id": "flipPage",
+   "titulo": "Flippage para Mobile",
+   "numeros_paginas":12,
+   "numeros_thumbs":12,
+   "caminho_background": "img/bg.jpg",
+   "data":
+        {
+            "page_width":"550",
+            "page_height":"715",
+            "zoom_double_click":"1",
+            "zoom_step":"0.06",
+            "double_click_enabled":"true",
+            "tooltip_visible":"true",
+            "toolbar_visible":"true",
+            "gotopage_width":"30",
+            "deeplinking_enabled":"true",
+            "rtl":"false",
+            "rtl":"false",
+            "full_area":"true",
+            "lazy_loading_thumbs":"false",
+            "lazy_loading_pages":"false"
+        }
+}

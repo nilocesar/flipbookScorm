@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="c78fbyyu-6115-42d9-9660-c85d4c27804a" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<organizations default="FK015_COURSE">
+	<organization identifier="FK015_COURSE" structure="hierarchical">
+		<title>Scorm Flip vs0.1</title>
+		<item identifier="FK015_CONTENT" identifierref="FK015_CONTENT_RSC" isvisible="true">
+			<title>Scorm Flip vs0.1</title>
+		</item>
+	</organization>
+</organizations>
+<resources>
+	<resource identifier="FK015_CONTENT_RSC" type="webcontent" adlcp:scormtype="sco" href="index.html">
+		<file href="index.html" />
+	</resource>
+</resources>
+</manifest>
